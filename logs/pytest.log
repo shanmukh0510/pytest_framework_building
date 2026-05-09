@@ -1,0 +1,3 @@
+INFO     framework:conftest.py:113 ========== TEST EXECUTION STARTED ==========
+INFO     framework:conftest.py:48 Running tests on environment: qa
+INFO     framework:conftest.py:62 Launching browser: chrome

@@ -1,3 +1,63 @@
-INFO     framework:conftest.py:113 ========== TEST EXECUTION STARTED ==========
+INFO     framework:conftest.py:109 ========== TEST EXECUTION STARTED ==========
 INFO     framework:conftest.py:48 Running tests on environment: qa
 INFO     framework:conftest.py:62 Launching browser: chrome
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login.py:43 Starting login test
+INFO     framework:test_login.py:56 Login successful
+INFO     framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:test_login.py:68 Page Title: OrangeHRM
+INFO     framework:test_login.py:73 Login validation successful
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: firefox
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login.py:43 Starting login test
+INFO     framework:test_login.py:56 Login successful
+INFO     framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:test_login.py:68 Page Title: OrangeHRM
+INFO     framework:test_login.py:73 Login validation successful
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: edge
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login.py:43 Starting login test
+INFO     framework:test_login.py:56 Login successful
+INFO     framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:test_login.py:68 Page Title: OrangeHRM
+INFO     framework:test_login.py:73 Login validation successful
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: chrome
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: chrome
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: firefox
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: firefox
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: edge
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:62 Launching browser: edge
+INFO     framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login_data.py:20 Starting login test
+INFO     framework:test_login_data.py:29 Login action completed
+INFO     framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:conftest.py:74 Closing browser
+INFO     framework:conftest.py:118 ========== TEST EXECUTION COMPLETED ==========

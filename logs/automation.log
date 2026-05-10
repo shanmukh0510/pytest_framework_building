@@ -136,3 +136,325 @@
 2026-05-09 10:03:46,759 - INFO - ========== TEST EXECUTION STARTED ==========
 2026-05-09 10:03:47,338 - INFO - Running tests on environment: qa
 2026-05-09 10:03:47,344 - INFO - Launching browser: chrome
+2026-05-09 14:39:44,724 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 14:39:45,023 - INFO - Running tests on environment: qa
+2026-05-09 14:39:45,024 - INFO - Launching browser: chrome
+2026-05-09 14:39:49,783 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 14:39:49,785 - INFO - Starting login test
+2026-05-09 14:39:51,718 - INFO - Login successful
+2026-05-09 14:39:51,727 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 14:39:51,756 - INFO - Page Title: OrangeHRM
+2026-05-09 14:39:51,760 - INFO - Login validation successful
+2026-05-09 14:39:51,761 - INFO - Closing browser
+2026-05-09 14:39:54,177 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 14:40:31,272 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 14:40:31,492 - INFO - Running tests on environment: qa
+2026-05-09 14:40:31,494 - INFO - Launching browser: chrome
+2026-05-09 14:40:35,661 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 14:40:35,662 - INFO - Starting login test
+2026-05-09 14:40:37,537 - INFO - Login successful
+2026-05-09 14:40:37,543 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 14:40:37,550 - INFO - Page Title: OrangeHRM
+2026-05-09 14:40:37,551 - INFO - Login validation successful
+2026-05-09 14:40:37,552 - INFO - Closing browser
+2026-05-09 14:40:39,937 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:08:29,424 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:08:29,697 - INFO - Running tests on environment: qa
+2026-05-09 15:08:29,698 - INFO - Launching browser: chrome
+2026-05-09 15:08:44,409 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:08:44,411 - INFO - Starting login test
+2026-05-09 15:08:46,355 - INFO - Login successful
+2026-05-09 15:08:48,835 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:08:48,845 - INFO - Page Title: OrangeHRM
+2026-05-09 15:08:48,845 - INFO - Login validation successful
+2026-05-09 15:08:48,846 - INFO - Closing browser
+2026-05-09 15:08:51,203 - INFO - Launching browser: chrome
+2026-05-09 15:09:11,233 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:09:11,234 - INFO - Starting login test
+2026-05-09 15:09:13,195 - INFO - Login action completed
+2026-05-09 15:09:17,883 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:09:17,884 - INFO - Closing browser
+2026-05-09 15:09:20,285 - INFO - Launching browser: chrome
+2026-05-09 15:09:28,586 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:09:28,587 - INFO - Starting login test
+2026-05-09 15:09:29,911 - INFO - Login action completed
+2026-05-09 15:09:30,667 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:09:30,668 - INFO - Closing browser
+2026-05-09 15:09:32,858 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:39:37,215 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:39:37,697 - INFO - Running tests on environment: qa
+2026-05-09 15:39:37,716 - INFO - Launching browser: chrome
+2026-05-09 15:39:42,266 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:39:42,267 - INFO - Starting login test
+2026-05-09 15:39:43,249 - INFO - Login successful
+2026-05-09 15:39:44,214 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:39:44,221 - INFO - Page Title: OrangeHRM
+2026-05-09 15:39:44,221 - INFO - Login validation successful
+2026-05-09 15:39:44,222 - INFO - Closing browser
+2026-05-09 15:39:46,548 - INFO - Launching browser: chrome
+2026-05-09 15:39:52,758 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:39:52,759 - INFO - Starting login test
+2026-05-09 15:39:53,582 - INFO - Login action completed
+2026-05-09 15:39:54,590 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:39:54,591 - INFO - Closing browser
+2026-05-09 15:39:56,873 - INFO - Launching browser: chrome
+2026-05-09 15:40:00,284 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:40:00,285 - INFO - Starting login test
+2026-05-09 15:40:01,078 - INFO - Login action completed
+2026-05-09 15:40:01,731 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:40:01,732 - INFO - Closing browser
+2026-05-09 15:40:03,986 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:43:53,871 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:43:54,002 - INFO - Running tests on environment: qa
+2026-05-09 15:43:54,004 - INFO - Launching browser: firefox
+2026-05-09 15:44:33,048 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:44:33,049 - INFO - Starting login test
+2026-05-09 15:44:35,271 - INFO - Login successful
+2026-05-09 15:44:35,274 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:44:35,276 - INFO - Page Title: OrangeHRM
+2026-05-09 15:44:35,277 - INFO - Login validation successful
+2026-05-09 15:44:35,277 - INFO - Closing browser
+2026-05-09 15:44:38,715 - INFO - Launching browser: firefox
+2026-05-09 15:44:52,844 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:44:52,845 - INFO - Starting login test
+2026-05-09 15:44:55,030 - INFO - Login action completed
+2026-05-09 15:44:55,032 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:44:55,033 - INFO - Closing browser
+2026-05-09 15:44:58,067 - INFO - Launching browser: firefox
+2026-05-09 15:45:09,474 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:45:09,475 - INFO - Starting login test
+2026-05-09 15:45:11,527 - INFO - Login action completed
+2026-05-09 15:45:11,529 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:45:11,530 - INFO - Closing browser
+2026-05-09 15:45:14,443 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:45:57,150 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:45:57,280 - INFO - Running tests on environment: qa
+2026-05-09 15:45:57,282 - INFO - Launching browser: edge
+2026-05-09 15:46:03,614 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:46:03,615 - INFO - Starting login test
+2026-05-09 15:46:05,554 - INFO - Login successful
+2026-05-09 15:46:05,559 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:46:05,566 - INFO - Page Title: OrangeHRM
+2026-05-09 15:46:05,566 - INFO - Login validation successful
+2026-05-09 15:46:05,567 - INFO - Closing browser
+2026-05-09 15:46:07,853 - INFO - Launching browser: edge
+2026-05-09 15:46:33,750 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:46:33,751 - INFO - Starting login test
+2026-05-09 15:46:36,746 - INFO - Login action completed
+2026-05-09 15:46:36,754 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:46:36,755 - INFO - Closing browser
+2026-05-09 15:46:39,195 - INFO - Launching browser: edge
+2026-05-09 15:46:54,341 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:46:54,342 - INFO - Starting login test
+2026-05-09 15:46:57,310 - INFO - Login action completed
+2026-05-09 15:46:57,316 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:46:57,317 - INFO - Closing browser
+2026-05-09 15:46:59,560 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:50:43,290 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:50:44,577 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:50:44,695 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 15:50:44,839 - INFO - Running tests on environment: qa
+2026-05-09 15:50:44,840 - INFO - Running tests on environment: qa
+2026-05-09 15:50:44,840 - INFO - Launching browser: edge
+2026-05-09 15:50:44,842 - INFO - Launching browser: chrome
+2026-05-09 15:50:50,810 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:50:50,811 - INFO - Starting login test
+2026-05-09 15:50:50,827 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:50:50,829 - INFO - Starting login test
+2026-05-09 15:50:52,882 - INFO - Login successful
+2026-05-09 15:50:52,889 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:50:52,895 - INFO - Page Title: OrangeHRM
+2026-05-09 15:50:52,895 - INFO - Login validation successful
+2026-05-09 15:50:52,896 - INFO - Closing browser
+2026-05-09 15:50:53,020 - INFO - Login successful
+2026-05-09 15:50:53,027 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:50:53,037 - INFO - Page Title: OrangeHRM
+2026-05-09 15:50:53,038 - INFO - Login validation successful
+2026-05-09 15:50:53,039 - INFO - Closing browser
+2026-05-09 15:50:55,364 - INFO - Launching browser: firefox
+2026-05-09 15:50:55,454 - INFO - Launching browser: chrome
+2026-05-09 15:51:06,564 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:06,569 - INFO - Starting login test
+2026-05-09 15:51:08,628 - INFO - Login successful
+2026-05-09 15:51:08,635 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:51:08,638 - INFO - Page Title: OrangeHRM
+2026-05-09 15:51:08,639 - INFO - Login validation successful
+2026-05-09 15:51:08,640 - INFO - Closing browser
+2026-05-09 15:51:09,957 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:09,959 - INFO - Starting login test
+2026-05-09 15:51:12,325 - INFO - Launching browser: chrome
+2026-05-09 15:51:12,664 - INFO - Login action completed
+2026-05-09 15:51:12,671 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:51:12,672 - INFO - Closing browser
+2026-05-09 15:51:14,956 - INFO - Launching browser: firefox
+2026-05-09 15:51:16,367 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:16,368 - INFO - Starting login test
+2026-05-09 15:51:17,287 - INFO - Login action completed
+2026-05-09 15:51:18,100 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:18,100 - INFO - Closing browser
+2026-05-09 15:51:20,267 - INFO - Launching browser: firefox
+2026-05-09 15:51:24,114 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:24,123 - INFO - Starting login test
+2026-05-09 15:51:26,372 - INFO - Login action completed
+2026-05-09 15:51:26,375 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:51:26,376 - INFO - Closing browser
+2026-05-09 15:51:31,268 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:31,272 - INFO - Starting login test
+2026-05-09 15:51:32,823 - INFO - Login action completed
+2026-05-09 15:51:32,828 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:32,838 - INFO - Closing browser
+2026-05-09 15:51:35,546 - INFO - Launching browser: edge
+2026-05-09 15:51:36,414 - INFO - Launching browser: edge
+2026-05-09 15:51:42,896 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:42,897 - INFO - Starting login test
+2026-05-09 15:51:43,774 - INFO - Login action completed
+2026-05-09 15:51:46,415 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:46,416 - INFO - Closing browser
+2026-05-09 15:51:48,695 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:51:51,808 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 15:51:51,809 - INFO - Starting login test
+2026-05-09 15:51:55,223 - INFO - Login action completed
+2026-05-09 15:51:55,230 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 15:51:55,230 - INFO - Closing browser
+2026-05-09 15:51:57,656 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 15:51:58,001 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:42:20,414 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:22,232 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:22,360 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:22,486 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:22,629 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:22,900 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 16:42:23,088 - INFO - Running tests on environment: qa
+2026-05-09 16:42:23,089 - INFO - Running tests on environment: qa
+2026-05-09 16:42:23,091 - INFO - Launching browser: firefox
+2026-05-09 16:42:23,091 - INFO - Running tests on environment: qa
+2026-05-09 16:42:23,091 - INFO - Launching browser: edge
+2026-05-09 16:42:23,094 - INFO - Launching browser: chrome
+2026-05-09 16:42:23,094 - INFO - Running tests on environment: qa
+2026-05-09 16:42:23,097 - INFO - Running tests on environment: qa
+2026-05-09 16:42:23,097 - INFO - Launching browser: chrome
+2026-05-09 16:42:23,100 - INFO - Launching browser: chrome
+2026-05-09 16:42:33,079 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:33,089 - INFO - Starting login test
+2026-05-09 16:42:34,482 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:34,495 - INFO - Starting login test
+2026-05-09 16:42:34,954 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:34,971 - INFO - Starting login test
+2026-05-09 16:42:35,278 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:35,305 - INFO - Starting login test
+2026-05-09 16:42:40,855 - INFO - Login action completed
+2026-05-09 16:42:41,032 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:42:41,043 - INFO - Closing browser
+2026-05-09 16:42:41,764 - INFO - Login action completed
+2026-05-09 16:42:41,845 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:41,860 - INFO - Closing browser
+2026-05-09 16:42:42,028 - INFO - Login successful
+2026-05-09 16:42:42,075 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:42:42,114 - INFO - Page Title: OrangeHRM
+2026-05-09 16:42:42,116 - INFO - Login validation successful
+2026-05-09 16:42:42,127 - INFO - Closing browser
+2026-05-09 16:42:42,556 - INFO - Login successful
+2026-05-09 16:42:42,571 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:42:42,584 - INFO - Page Title: OrangeHRM
+2026-05-09 16:42:42,590 - INFO - Login validation successful
+2026-05-09 16:42:42,616 - INFO - Closing browser
+2026-05-09 16:42:45,667 - INFO - Launching browser: firefox
+2026-05-09 16:42:46,423 - INFO - Launching browser: edge
+2026-05-09 16:42:46,572 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:42:46,949 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:47,045 - INFO - Starting login test
+2026-05-09 16:42:48,640 - INFO - Launching browser: edge
+2026-05-09 16:42:49,147 - INFO - Login successful
+2026-05-09 16:42:49,151 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:42:49,157 - INFO - Page Title: OrangeHRM
+2026-05-09 16:42:49,160 - INFO - Login validation successful
+2026-05-09 16:42:49,163 - INFO - Closing browser
+2026-05-09 16:42:54,447 - INFO - Launching browser: firefox
+2026-05-09 16:42:56,539 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:42:56,540 - INFO - Starting login test
+2026-05-09 16:43:00,415 - INFO - Login action completed
+2026-05-09 16:43:00,444 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:43:00,446 - INFO - Closing browser
+2026-05-09 16:43:01,991 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:43:02,007 - INFO - Starting login test
+2026-05-09 16:43:04,132 - INFO - Login action completed
+2026-05-09 16:43:04,138 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:43:04,139 - INFO - Closing browser
+2026-05-09 16:43:08,758 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:43:08,814 - INFO - Starting login test
+2026-05-09 16:43:09,853 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:43:10,595 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:43:12,758 - INFO - Login action completed
+2026-05-09 16:43:12,761 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 16:43:12,763 - INFO - Closing browser
+2026-05-09 16:43:16,321 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:43:16,325 - INFO - Starting login test
+2026-05-09 16:43:17,055 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:43:21,307 - INFO - Login action completed
+2026-05-09 16:43:21,309 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 16:43:21,309 - INFO - Closing browser
+2026-05-09 16:43:24,308 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 16:43:24,863 - INFO - ========== TEST EXECUTION COMPLETED ==========
+2026-05-09 22:15:08,779 - INFO - ========== TEST EXECUTION STARTED ==========
+2026-05-09 22:15:09,015 - INFO - Running tests on environment: qa
+2026-05-09 22:15:09,016 - INFO - Launching browser: chrome
+2026-05-09 22:15:33,395 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:15:33,397 - INFO - Starting login test
+2026-05-09 22:15:35,685 - INFO - Login successful
+2026-05-09 22:15:37,819 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:15:37,829 - INFO - Page Title: OrangeHRM
+2026-05-09 22:15:37,830 - INFO - Login validation successful
+2026-05-09 22:15:37,836 - INFO - Closing browser
+2026-05-09 22:15:41,361 - INFO - Launching browser: firefox
+2026-05-09 22:16:09,381 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:16:09,383 - INFO - Starting login test
+2026-05-09 22:16:14,654 - INFO - Login successful
+2026-05-09 22:16:14,657 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:16:14,660 - INFO - Page Title: OrangeHRM
+2026-05-09 22:16:14,661 - INFO - Login validation successful
+2026-05-09 22:16:14,666 - INFO - Closing browser
+2026-05-09 22:16:17,852 - INFO - Launching browser: edge
+2026-05-09 22:16:46,804 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:16:46,806 - INFO - Starting login test
+2026-05-09 22:16:50,919 - INFO - Login successful
+2026-05-09 22:16:50,928 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:16:50,941 - INFO - Page Title: OrangeHRM
+2026-05-09 22:16:50,942 - INFO - Login validation successful
+2026-05-09 22:16:50,944 - INFO - Closing browser
+2026-05-09 22:16:53,372 - INFO - Launching browser: chrome
+2026-05-09 22:17:18,061 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:17:18,063 - INFO - Starting login test
+2026-05-09 22:17:22,634 - INFO - Login action completed
+2026-05-09 22:17:22,643 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:17:22,644 - INFO - Closing browser
+2026-05-09 22:17:25,059 - INFO - Launching browser: chrome
+2026-05-09 22:17:57,754 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:17:57,757 - INFO - Starting login test
+2026-05-09 22:18:00,507 - INFO - Login action completed
+2026-05-09 22:18:04,559 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:18:04,560 - INFO - Closing browser
+2026-05-09 22:18:06,907 - INFO - Launching browser: firefox
+2026-05-09 22:18:17,885 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:18:17,891 - INFO - Starting login test
+2026-05-09 22:18:23,337 - INFO - Login action completed
+2026-05-09 22:18:23,341 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:18:23,344 - INFO - Closing browser
+2026-05-09 22:18:26,578 - INFO - Launching browser: firefox
+2026-05-09 22:18:58,404 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:18:58,406 - INFO - Starting login test
+2026-05-09 22:19:03,143 - INFO - Login action completed
+2026-05-09 22:19:03,148 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:19:03,149 - INFO - Closing browser
+2026-05-09 22:19:06,332 - INFO - Launching browser: edge
+2026-05-09 22:19:32,570 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:19:32,571 - INFO - Starting login test
+2026-05-09 22:19:36,889 - INFO - Login action completed
+2026-05-09 22:19:36,911 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2026-05-09 22:19:36,915 - INFO - Closing browser
+2026-05-09 22:19:39,391 - INFO - Launching browser: edge
+2026-05-09 22:20:06,072 - INFO - Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:20:06,074 - INFO - Starting login test
+2026-05-09 22:20:10,785 - INFO - Login action completed
+2026-05-09 22:20:10,795 - INFO - Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-05-09 22:20:10,797 - INFO - Closing browser
+2026-05-09 22:20:13,248 - INFO - ========== TEST EXECUTION COMPLETED ==========

@@ -29,7 +29,7 @@ def pytest_addoption(parser):
     )
 
     parser.addoption(
-        "--browser",
+        "--browser_name",
         action="store",
         default="chrome",
         help="Browser name: chrome/firefox/edge"
@@ -54,14 +54,12 @@ def config(request):
 # DRIVER FIXTURE (SETUP + TEARDOWN)
 # =========================================================
 
-@pytest.fixture(scope="function")
+@pytest.fixture(params=["chrome", "firefox", "edge"])
 def driver(request, config):
 
-    browser = request.config.getoption("--browser")
+    browser = request.param
 
     logger.info(f"Launching browser: {browser}")
-
-    # ---------------- SETUP ----------------
 
     driver = DriverFactory.get_driver(browser)
 
@@ -72,8 +70,6 @@ def driver(request, config):
     logger.info(f"Opened URL: {config.get('base_url')}")
 
     yield driver
-
-    # ---------------- TEARDOWN ----------------
 
     logger.info("Closing browser")
 

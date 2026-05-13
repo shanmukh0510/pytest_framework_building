@@ -4,6 +4,15 @@ INFO     framework:conftest.py:69 Launching browser: chrome
 INFO     framework:conftest.py:75 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 INFO     framework:test_login.py:43 Starting login test
 INFO     framework:test_login.py:56 Login successful
+INFO     framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login.py:68 Page Title: OrangeHRM
+ERROR    framework:conftest.py:96 Test Failed: test_valid_login
+INFO     framework:conftest.py:104 Screenshot saved at: screenshots\test_valid_login_20260513_133238.png
+INFO     framework:conftest.py:79 Closing browser
+INFO     framework:conftest.py:69 Launching browser: chrome
+INFO     framework:conftest.py:75 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+INFO     framework:test_login.py:43 Starting login test
+INFO     framework:test_login.py:56 Login successful
 INFO     framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
 INFO     framework:test_login.py:68 Page Title: OrangeHRM
 INFO     framework:test_login.py:73 Login validation successful

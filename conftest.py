@@ -78,8 +78,12 @@ def driver(request, config):
 
     logger.info("Closing browser")
 
-    driver.quit()
+    try:
+        logger.info("Closing browser")
+        driver.quit()
 
+    except Exception as e:
+        logger.error(f"Error while closing browser: {e}")
 
 # =========================================================
 # SCREENSHOT ON FAILURE

@@ -1,0 +1,6 @@
+[32mINFO    [0m framework:conftest.py:62 Launching browser: firefox
+[32mINFO    [0m framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m framework:test_login_data.py:20 Starting login test
+[32mINFO    [0m framework:test_login_data.py:29 Login action completed
+[32mINFO    [0m framework:test_login_data.py:33 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[32mINFO    [0m framework:conftest.py:74 Closing browser

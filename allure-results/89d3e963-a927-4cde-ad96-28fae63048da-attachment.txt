@@ -1,0 +1,8 @@
+[32mINFO    [0m framework:conftest.py:62 Launching browser: edge
+[32mINFO    [0m framework:conftest.py:70 Opened URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m framework:test_login.py:43 Starting login test
+[32mINFO    [0m framework:test_login.py:56 Login successful
+[32mINFO    [0m framework:test_login.py:64 Current URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+[32mINFO    [0m framework:test_login.py:68 Page Title: OrangeHRM
+[32mINFO    [0m framework:test_login.py:73 Login validation successful
+[32mINFO    [0m framework:conftest.py:74 Closing browser

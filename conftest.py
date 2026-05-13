@@ -1,5 +1,3 @@
-# conftest.py
-
 import pytest
 
 from config.config_reader import ConfigReader
@@ -35,6 +33,13 @@ def pytest_addoption(parser):
         help="Browser name: chrome/firefox/edge"
     )
 
+    parser.addoption(
+        "--headless",
+        action="store",
+        default="false",
+        help="Run tests in headless mode"
+    )
+
 
 # =========================================================
 # CONFIG FIXTURE
@@ -51,19 +56,19 @@ def config(request):
 
 
 # =========================================================
-# DRIVER FIXTURE (SETUP + TEARDOWN)
+# DRIVER FIXTURE
 # =========================================================
 
-@pytest.fixture(params=["chrome", "firefox", "edge"])
+@pytest.fixture(scope="function")
 def driver(request, config):
 
-    browser = request.param
+    browser = request.config.getoption("--browser_name")
+
+    headless = request.config.getoption("--headless").lower() == "true"
 
     logger.info(f"Launching browser: {browser}")
 
-    driver = DriverFactory.get_driver(browser)
-
-    driver.maximize_window()
+    driver = DriverFactory.get_driver(browser, headless)
 
     driver.get(config.get("base_url"))
 
@@ -77,7 +82,7 @@ def driver(request, config):
 
 
 # =========================================================
-# HOOK : SCREENSHOT ON FAILURE
+# SCREENSHOT ON FAILURE
 # =========================================================
 
 @pytest.hookimpl(hookwrapper=True)
@@ -86,7 +91,6 @@ def pytest_runtest_makereport(item, call):
     outcome = yield
     report = outcome.get_result()
 
-    # Only for actual test failure
     if report.when == "call" and report.failed:
 
         logger.error(f"Test Failed: {item.name}")

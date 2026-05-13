@@ -1,4 +1,4 @@
-# utils/wait_utils.py
+
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -17,9 +17,7 @@ class WaitUtils:
 
     def wait_for_visibility(self, locator):
 
-        return self.wait.until(
-            EC.visibility_of_element_located(locator)
-        )
+        return self.wait.until(EC.visibility_of_element_located(locator))
 
     # =====================================================
     # Wait For Element Clickable
@@ -70,8 +68,3 @@ class WaitUtils:
         return self.wait.until(
             EC.invisibility_of_element_located(locator)
         )
-    
-
-
-
-    
